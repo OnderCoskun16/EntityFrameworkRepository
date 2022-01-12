@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Giris", "Giris\Giris.csproj", "{025E3716-47FD-4EAA-AF44-8DDC41AB425D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Giris2", "Giris2\Giris2.csproj", "{33C966B4-2043-4C39-9BC3-8EB149BFC1AA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convestion_DataAnotations", "Convestion_DataAnotations\Convestion_DataAnotations.csproj", "{F1190766-C2B6-4921-A5B0-E3052C1E3B0F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convestion_FluentApi", "Convestion_FluentApi\Convestion_FluentApi.csproj", "{8062E3D7-620C-4A53-99B4-F38D1A483B89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crud1", "Crud1\Crud1.csproj", "{D1937E95-0D9C-40E9-8FC2-E579DCE50557}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudApp", "CrudApp\CrudApp.csproj", "{266F0487-0BB3-43BB-B317-93BE632FB575}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{025E3716-47FD-4EAA-AF44-8DDC41AB425D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{025E3716-47FD-4EAA-AF44-8DDC41AB425D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{025E3716-47FD-4EAA-AF44-8DDC41AB425D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{025E3716-47FD-4EAA-AF44-8DDC41AB425D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33C966B4-2043-4C39-9BC3-8EB149BFC1AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33C966B4-2043-4C39-9BC3-8EB149BFC1AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33C966B4-2043-4C39-9BC3-8EB149BFC1AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33C966B4-2043-4C39-9BC3-8EB149BFC1AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1190766-C2B6-4921-A5B0-E3052C1E3B0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1190766-C2B6-4921-A5B0-E3052C1E3B0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1190766-C2B6-4921-A5B0-E3052C1E3B0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1190766-C2B6-4921-A5B0-E3052C1E3B0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8062E3D7-620C-4A53-99B4-F38D1A483B89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8062E3D7-620C-4A53-99B4-F38D1A483B89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8062E3D7-620C-4A53-99B4-F38D1A483B89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8062E3D7-620C-4A53-99B4-F38D1A483B89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1937E95-0D9C-40E9-8FC2-E579DCE50557}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1937E95-0D9C-40E9-8FC2-E579DCE50557}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1937E95-0D9C-40E9-8FC2-E579DCE50557}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1937E95-0D9C-40E9-8FC2-E579DCE50557}.Release|Any CPU.Build.0 = Release|Any CPU
+		{266F0487-0BB3-43BB-B317-93BE632FB575}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{266F0487-0BB3-43BB-B317-93BE632FB575}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{266F0487-0BB3-43BB-B317-93BE632FB575}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{266F0487-0BB3-43BB-B317-93BE632FB575}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {104C4367-920E-4D96-8CEE-8BF727B1F7C9}
+	EndGlobalSection
+EndGlobal
